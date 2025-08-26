@@ -5,3 +5,4 @@ beautifulsoup4>=4.8
 astroquery>=0.4.10
 astropy>=5.0
 matplotlib>=3.7.0
+scipy
